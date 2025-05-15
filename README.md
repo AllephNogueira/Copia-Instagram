@@ -11,7 +11,6 @@ Este é um projeto de site criado utilizando **HTML** e **CSS**. Ele apresenta u
 
 Aqui estão algumas imagens do site:
 
-![Imagem 1](https://raw.githubusercontent.com/AllephNogueira/Site-Flex-Turismo/refs/heads/main/foto1.png)
-![Imagem 2](https://raw.githubusercontent.com/AllephNogueira/Site-Flex-Turismo/refs/heads/main/foto2.png)
-![Imagem 3](https://raw.githubusercontent.com/AllephNogueira/Site-Flex-Turismo/refs/heads/main/foto3.png)
+![Imagem 1]([https://raw.githubusercontent.com/AllephNogueira/Copia-Instagram/refs/heads/main/foto1.png](https://github.com/AllephNogueira/Copia-Instagram/blob/main/imagem/imagem-projeto.png?raw=true))
+
 
